@@ -1,6 +1,6 @@
 QA Portfolio - Olena Nikolaichuk
 
-This repository contains examples of QA tasks completed during manual QA training.
+This repository contains examples of QA documentation created during manual QA training.
 
 Contents include:
 - Checklists
@@ -11,3 +11,8 @@ Contents include:
 - API testing
 - Database testing
 - Resume
+
+Tools used:
+Postman, DevTools, SQL, Jira, TestRail.
+
+Portfolio created as part of QA training and self-practice.
